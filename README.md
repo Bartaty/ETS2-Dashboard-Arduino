@@ -1,6 +1,8 @@
 # ETS2-Dashboard-Arduino
 
-First and second part of video: 
+ВАЖНО! На данный момент плагином поддерживается ETS 2 до версии 1.21
+
+Видео по результатам работы приборной панели: 
 https://www.youtube.com/watch?v=Iq3QGj2uiUk&ab_channel=BartatyInc.
 https://www.youtube.com/watch?v=zv2Av_CO-cE&ab_channel=BartatyInc.
 
