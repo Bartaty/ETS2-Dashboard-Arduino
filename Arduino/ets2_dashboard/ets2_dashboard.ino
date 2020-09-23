@@ -1,5 +1,7 @@
 #include <Servo.h>
 
+// Bartaty Inc. Dashboard for Euro Truck Simulator 2 https://github.com/Bartaty/ETS2-Dashboard-Arduino
+
 // Назначение пинов на Arduino
 const int SPEEDO_PIN      = A0; // Сигнал спидометра
 const int RPM_PIN         = A1; // Сигнал тахометра
