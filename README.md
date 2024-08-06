@@ -1,7 +1,9 @@
 # ETS2-Dashboard-Arduino
 
 Видео по результатам работы приборной панели: 
+
 https://www.youtube.com/watch?v=Iq3QGj2uiUk&ab_channel=BartatyInc.
+
 https://www.youtube.com/watch?v=zv2Av_CO-cE&ab_channel=BartatyInc.
 
 В папке Arduino находится скетч, который нужно загрузить в Ваш микроконтроллер.
